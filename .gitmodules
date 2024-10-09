@@ -1,0 +1,3 @@
+[submodule "Theia"]
+	path = Theia
+	url = https://github.com/DevPAMGit/Theia.git
